@@ -111,7 +111,7 @@ A generation job has a one-to-many relationship with recipients.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/BBharath57/bulk-certificate-generator.git
 cd bulk-certificate-generator
 ```
 
